@@ -1,0 +1,8 @@
+Tela inicial de exames com tabelas, filtros e ações de consulta e edição.​
+Fonte: Autoria própria.​
+
+Tela de edição de pacientes, permitindo alterar dados cadastrados e confirmar as mudanças pelo botão “Editar”.​
+Fonte: Autoria própria.​
+
+Trabalho de Conclusão de Curso (Graduação) – Faculdade de Computação e Informática, Universidade Presbiteriana Mackenzie: 
+Disponível em: https://adelpha-api.mackenzie.br/server/api/core/bitstreams/f6a52324-e7e4-43e6-a508-793578eb3979/content
